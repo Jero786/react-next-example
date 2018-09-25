@@ -1,7 +1,7 @@
 # React & Redux and Server rendering example project
 
 [![Build Status](https://travis-ci.com/Jero786/react-redux-next-example.svg?branch=master)](https://travis-ci.com/Jero786/react-redux-next-example)
-[![Coverage Status](https://coveralls.io/repos/github/Jero786/react-redux-next-example/badge.svg?branch=master)](https://coveralls.io/github/Jero786/react-redux-next-example?branch=master)
+[![Coverage Status](https://coveralls.io/repos/github/Jero786/react-next-example/badge.svg?branch=master)](https://coveralls.io/github/Jero786/react-next-example?branch=master)
 
 ### Prerequisites
 
